@@ -1,0 +1,14 @@
+{
+  "name": "nodewise",
+  "version": "1.0.0",
+  "description": "like spliteWise but better because it uses Node.js",
+  "main": "startSmallServer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shoaib Siddiquie",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.17.1"
+  }
+}

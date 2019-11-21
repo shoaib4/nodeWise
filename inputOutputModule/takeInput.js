@@ -4,7 +4,7 @@ var eventEmmiter = new events.EventEmitter();
 var exicuteCommand = function(command){
     if(command == 'newUser'){
         // eventEmmiter.on('creatNewUserEvent',creatNewFunction)
-        console.log('new user not yet written');
+        console.log('new user not yet written 2 ');
     }else{
         console.log('stupit command');
     }
